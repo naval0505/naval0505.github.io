@@ -1,6 +1,6 @@
-## HackMyVM
-- [Aria](hackmyvm/aria)
-- [CoolPG](hackmyvm/coolpg)
-- [Flute](hackmyvm/flute)
-- [Hunter](hackmyvm/hunter)
-- [Twelve](hackmyvm/twelve)
+## Platforms
+
+- [HackMyVM](hackmyvm/)
+- HackTheBox (coming soon)
+- TryHackMe (coming soon)
+- VulnHub (coming soon)
