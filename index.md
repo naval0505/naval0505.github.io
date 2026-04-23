@@ -1,9 +1,6 @@
-# Kabir's CTF Writeups
-
-Welcome to my collection of CTF writeups.
-
-## Platforms
-- HackTheBox
-- TryHackMe
-- HackMyVM
-- VulnHub
+## HackMyVM
+- [Aria](hackmyvm/aria)
+- [CoolPG](hackmyvm/coolpg)
+- [Flute](hackmyvm/flute)
+- [Hunter](hackmyvm/hunter)
+- [Twelve](hackmyvm/twelve)
